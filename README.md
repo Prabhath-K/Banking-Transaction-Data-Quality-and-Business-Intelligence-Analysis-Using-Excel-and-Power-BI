@@ -1,10 +1,10 @@
-# 🏦 Banking Transaction Data Quality & Business Intelligence Analysis
+#  Banking Transaction Data Quality & Business Intelligence Analysis
 
 **Microsoft Excel · Power Query · Power BI · DAX**
 
 > A beginner-friendly walkthrough of the documented Excel cleaning checks and the three-page Power BI report. The DAX formulas below are **educational reconstructions**, not verified exports of the original measure expressions.
 
-## 📑 Contents
+##  Contents
 
 - [Excel Data Cleaning](#-excel-data-cleaning)
 - [DAX Measures](#-dax-measures-meaning-creation-and-examples)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧹 Excel Data Cleaning
+##  Excel Data Cleaning
 
 ### Standardize column headings
 
@@ -115,7 +115,7 @@ Check that transaction statuses sum to 650 and compare the total Transaction Amo
 
 ---
 
-## 🧮 DAX Measures: Meaning, Creation, and Examples
+##  DAX Measures: Meaning, Creation, and Examples
 
 ### What is DAX?
 
@@ -280,7 +280,7 @@ Open the supplied Bank Transactions.pbix in Power BI Desktop → find a measure 
 
 ---
 
-## 🎨 Dashboard Design and Common Formatting
+##  Dashboard Design and Common Formatting
 
 ### Understanding visual components
 
@@ -372,7 +372,7 @@ Open the supplied Bank Transactions.pbix in Power BI Desktop → find a measure 
 
 ---
 
-## 📊 Page 1 — Executive Overview
+##  Page 1 — Executive Overview
 
 **Actual PBIX page name:** Executive Overview
 **Main purpose:** Give an at-a-glance summary of transaction activity, recorded value, success, customers, fraud flags, categories and monthly trends.
@@ -482,7 +482,7 @@ Test a channel selection: Total Transactions, the chart bars and other visuals s
 
 ---
 
-## 🛡️ Page 2 — Fraud & Risk Analysis
+##  Page 2 — Fraud & Risk Analysis
 
 **Actual PBIX page name:** Fraud & Risk analysis (capitalization as saved)
 **Main purpose:** Monitor records flagged for fraud, unusual amounts and failures. These indicators support review; they do not identify proven crimes or forecast future fraud.
