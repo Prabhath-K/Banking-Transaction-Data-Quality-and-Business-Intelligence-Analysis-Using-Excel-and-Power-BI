@@ -269,7 +269,7 @@ Open the supplied Bank Transactions.pbix in Power BI Desktop → find a measure 
 | Tooltip | Information shown on hover | Add context without cluttering the chart |
 | Text box | Title, subtitle or explanation | Help users navigate the dashboard |
 
-### Create a visual — reusable beginner workflow
+### Create a visual 
 
 1. Open the desired page in Report view.
 2. Click a blank area on the page.
