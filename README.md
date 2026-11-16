@@ -1,20 +1,5 @@
 #  Banking Transaction Data Quality & Business Intelligence Analysis
 
-**Microsoft Excel · Power Query · Power BI · DAX**
-
-
-
-##  Contents
-
-- [Excel Data Cleaning](#-excel-data-cleaning)
-- [DAX Measures](#-dax-measures-meaning-creation-and-examples)
-- [Dashboard Design and Formatting](#-dashboard-design-and-common-formatting)
-- [Page 1 — Executive Overview](#-page-1--executive-overview)
-- [Page 2 — Fraud & Risk Analysis](#-page-2--fraud--risk-analysis)
-- [Page 3 — Customer & Channel Insights](#-page-3--customer--channel-insights)
-- [Testing Checklist](#-testing-interactivity-and-checking-results)
-
----
 
 ##  Excel Data Cleaning
 
