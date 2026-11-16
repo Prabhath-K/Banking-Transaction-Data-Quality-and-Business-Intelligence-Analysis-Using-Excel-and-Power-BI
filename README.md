@@ -116,16 +116,6 @@ DAX (Data Analysis Expressions) is the formula language used by Power BI to calc
 6. Select the measure and use Measure tools / Modeling to set display format, such as Whole number, Currency or Percentage.
 7. Drag the measure to a Card, or to a chart's Y-axis / Values field well.
 
-### Actual measure names referenced in the PBIX report visuals
-
-The PBIX report configuration references the following names (including original spelling):
-
-**Measures:** Total Transactions, Total Transaction Amount, Unique Customers, Successful Transactions, Success Rate, Fraud Tansaction, Fraud Rate, Outlier Transactions, Outlier Rate, Failed Transactions, Average Transaction Value.
-
-**Very important distinction:** The names and their use in visuals were directly verified from Bank Transactions.pbix. The original DAX expression text was not reliably extractable, so the formulas below are educational reconstructions. They are not presented as exact formulas recovered from the uploaded PBIX. Compare them in Power BI Desktop by clicking each existing measure and reading the formula bar before treating them as the project's definitive code.
-
-> For readability, all examples below assume the actual model table is called Indian_Banking_Transactions_Cleaned_Verion. DAX uses the exact stored names: is fraud, Transaction Status and Amount Outlier.
-
 ### Example DAX measure reference
 
 #### 1. Total Transactions — How many transaction records exist?
