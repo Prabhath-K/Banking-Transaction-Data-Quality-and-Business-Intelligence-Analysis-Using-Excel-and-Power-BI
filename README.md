@@ -2,7 +2,7 @@
 
 **Microsoft Excel · Power Query · Power BI · DAX**
 
-> A beginner-friendly walkthrough of the documented Excel cleaning checks and the three-page Power BI report. The DAX formulas below are **educational reconstructions**, not verified exports of the original measure expressions.
+
 
 ##  Contents
 
